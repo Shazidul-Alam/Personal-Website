@@ -3,7 +3,7 @@ margin: 0px;
 font-family: 'Noto Serif', serif; 
 }
 .top{
-    background-image: url('header-bg.png');
+    background-image: url('images/header-bg.png');
     background-repeat: no-repeat;
     
     height: 650px;
@@ -44,7 +44,7 @@ font-family: 'Noto Serif', serif;
     color: white ;   
 }
 .dream{
- background-image: url('biography-bg.png');
+ background-image: url('images/biography-bg.png');
 
  height: 700px;
  
@@ -96,7 +96,7 @@ border-radius: 70px;
     
     height: 2300px;
     
-    background-image: url('latest-work-bg.png');
+    background-image: url('images/latest-work-bg.png');
     
   
 }
