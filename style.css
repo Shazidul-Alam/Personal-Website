@@ -1,0 +1,149 @@
+body{
+margin: 0px;
+font-family: 'Noto Serif', serif; 
+}
+.top{
+    background-image: url('header-bg.png');
+    background-repeat: no-repeat;
+    
+    height: 650px;
+
+}
+
+.space{
+    margin: 0px;
+}
+.raf-color{
+    margin: 0px;
+    font-size: 55px;
+    font-weight: bolder;
+    color: rgb(177, 32, 32);
+}
+.top-1{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+    padding-top: 150px;
+    
+}
+.top-2 {
+    padding-left: 80px;
+    padding-top: 60px;
+   width: 40%;
+}
+.add-pad{
+    padding-bottom: 20px;
+}
+.btn1{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, rgb(255, 82, 2), rgb(240, 123, 13));
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white ;   
+}
+.dream{
+ background-image: url('biography-bg.png');
+
+ height: 700px;
+ 
+}
+.bio{
+    font-size: 35px;
+}
+.middle{
+    width: 50%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+    padding-top: 20px;
+}
+.middle img{
+    width: 57%;
+    padding-left: 60px;
+}
+.middle-writings{
+    padding-top: 130px;
+    padding-right:100px ;
+}
+.size-1{
+    align-content: center;
+    margin-left: 125px;
+    
+    padding: 20px;
+height: 750px;
+width: 1100px;
+border-radius: 70px;
+  
+}
+.size-2{
+    border-radius: 50px;
+    padding: 30px;
+    width: 45%;
+    padding-bottom: 40px;
+    
+   
+}
+.MLW{
+    font-size: 40px;
+    color: rgb(241, 97, 60);
+    padding-top: 70px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.bottom{
+    
+    height: 2300px;
+    
+    background-image: url('latest-work-bg.png');
+    
+  
+}
+.feedback{
+    padding-top: 160px;
+    text-align: center;
+}
+.com{
+    font-size: 35px;
+}
+.com-1{
+    padding-top: 40px ;
+}
+.com-2{
+    color: grey;
+}
+.com-3{
+    color: rgb(88, 88, 88);
+    font-size: 15px;
+}
+
+.mod{
+    
+    color: white;
+    padding-top: 40px;
+    background-image: linear-gradient(45deg, rgb(255, 82, 2), rgb(240, 123, 13));
+    width: 35%;
+    padding-bottom: 40px;
+    margin-left:32%;
+    margin-top: 12%;
+    border-radius: 35px;
+}
+.txt-dec{
+    color: white;
+    text-decoration: none;
+}
+.msg{
+    font-size: 13px;
+}
+.mail{
+    font-weight: 300;
+    font-size: 26px;
+}
+footer p{
+    margin-top: 110px;
+    padding-bottom: 40px;
+    font-size: 13px;
+    text-align: center;
+    color: rgb(153, 152, 152);
+}
